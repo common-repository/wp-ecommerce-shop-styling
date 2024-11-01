@@ -1,0 +1,677 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP E-Commerce shop styling v1.9.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-03-20 21:16+0100\n"
+"Last-Translator: \n"
+"Language-Team: Luckid <tyibon@tin.it>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:37
+msgid "invoice"
+msgstr "Fattura"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:38 includes/class-haetshopstyling.php:40
+#: includes/class-haetshopstyling.php:42
+msgid "Your purchase at "
+msgstr "Il vostro acquisto a"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:44
+msgid "Product Tracking Email"
+msgstr "E-mail di monitoraggio prodotto"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:51
+msgid "Product"
+msgstr "Prodotto"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:52
+msgid "Quantity"
+msgstr "Quantità"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:53
+msgid "Price single"
+msgstr "Prezzo Singolo"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:54
+msgid "Tax %"
+msgstr "Inposta %"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:55
+msgid "Tax"
+msgstr "Imposta"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:56
+msgid "Price"
+msgstr "Prezzo"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:57
+msgid "Download"
+msgstr "Download"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:322
+#: includes/class-haetshopstyling.php:331
+msgid "Your serial was accepted!"
+msgstr "Il seriale è stato accettato!"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:342
+msgid "Settings Updated."
+msgstr "Impostazioni aggiornate."
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:353
+msgid "Email Content"
+msgstr "Contenuto Email"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:354
+msgid "Email Template"
+msgstr "Modello email"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:355
+msgid "Products Table"
+msgstr "Tabella Prodotti"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:356 views/admin/settings.php:96
+msgid "Invoice Template"
+msgstr "Il modello della Fattura"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:357
+msgid "Invoice CSS"
+msgstr "Fattura CSS"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:358
+msgid "Transaction Results Page"
+msgstr "Risultati Delle Transazioni"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:366
+msgid "item number"
+msgstr "Numero Articolo"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:367
+msgid "product name"
+msgstr "nome prodotto"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:368
+msgid "quantity"
+msgstr "quantità"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:370
+msgid "product shipping"
+msgstr "spedizione del prodotto"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:371
+msgid "single price without tax"
+msgstr "prezzo singolo IVA esclusa"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:373
+msgid "price without tax"
+msgstr "Prezzo IVA esclusa"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:374
+msgid "tax rate"
+msgstr "aliquota fiscale"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:377
+msgid "download link"
+msgstr "download link"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:380
+msgid "hide column"
+msgstr "nascondi colonna"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:410
+msgid "Show Invoice"
+msgstr "Vedi Fatture"
+
+# @ haetshopstyling
+# @ wpsc
+#: includes/class-haetshopstyling.php:46
+#: includes/class-haetshopstyling.php:729
+msgid "Transaction Report"
+msgstr "Rapporto Transazioni"
+
+# @ wpsc
+#: includes/class-haetshopstyling.php:738
+msgid "Purchase Receipt"
+msgstr "Ricevuta d'acquisto"
+
+# @ wpsc
+#: includes/class-haetshopstyling.php:744
+msgid "Order Pending: Payment Required"
+msgstr "Ordine attesa: Pagamento richiesto"
+
+# @ wpsc
+#: includes/class-haetshopstyling.php:754
+msgid "The administrator has unlocked your file"
+msgstr "L'amministratore ha sbloccato il vostro file"
+
+# @ haetshopstyling
+#: js/editor.js.php:21 js/editor_invoice_fields.js.php:14
+msgid "products table"
+msgstr "tabella prodotti"
+
+# @ haetshopstyling
+#: js/editor.js.php:25 js/editor_invoice_fields.js.php:22
+msgid "Payment instructions"
+msgstr "Istruzioni pagamento"
+
+# @ haetshopstyling
+#: js/editor.js.php:29 js/editor_invoice_fields.js.php:26
+msgid "date"
+msgstr "data"
+
+# @ haetshopstyling
+#: js/editor.js.php:33 js/editor_invoice_fields.js.php:30
+msgid "Shipping base"
+msgstr "Spese di spedizione di base"
+
+# @ haetshopstyling
+#: js/editor.js.php:37 js/editor_invoice_fields.js.php:34
+msgid "invoice number"
+msgstr "numero fattura"
+
+# @ haetshopstyling
+#: js/editor.js.php:41 js/editor_invoice_fields.js.php:38
+msgid "Total shipping"
+msgstr "Totale spese di spedizione"
+
+# @ haetshopstyling
+#: js/editor.js.php:45 js/editor_invoice_fields.js.php:42
+msgid "Total product price"
+msgstr "Prezzo totale del prodotto"
+
+# @ haetshopstyling
+#: js/editor.js.php:49 js/editor_invoice_fields.js.php:46
+msgid "Total tax"
+msgstr "Totale imposte"
+
+# @ haetshopstyling
+#: js/editor.js.php:53 js/editor_invoice_fields.js.php:50
+msgid "Discount"
+msgstr "Sconto"
+
+# @ haetshopstyling
+#: js/editor.js.php:57 js/editor_invoice_fields.js.php:54
+msgid "Total price"
+msgstr "Prezzo totale"
+
+# @ haetshopstyling
+#: js/editor.js.php:61 js/editor_invoice_fields.js.php:58
+msgid "Tracking ID"
+msgstr "Monitoraggio ID"
+
+# @ haetshopstyling
+#: js/editor.js.php:86
+msgid "Placeholders"
+msgstr "Segnaposto"
+
+# @ haetshopstyling
+#: js/editor_checkoutform_fields.js.php:43
+msgid "Checkout Fields"
+msgstr "Acquista Campi"
+
+# @ haetshopstyling
+#: js/editor_invoice_fields.js.php:83
+msgid "Invoice Fields"
+msgstr "Campi Fattura"
+
+# @ haetshopstyling
+#: views/admin/settings.php:42
+msgid "Style your store"
+msgstr "Il tuo negozio di stile"
+
+# @ haetshopstyling
+#: views/admin/settings.php:62 views/admin/settings.php:421
+#: views/admin/settings.php:529
+msgid "You have not unlocked this feature yet"
+msgstr "Non hai ancora sbloccato questa funzione"
+
+# @ haetshopstyling
+#: views/admin/settings.php:63 views/admin/settings.php:422
+msgid ""
+"You can edit and even preview the invoice but it will not be published to "
+"your customers."
+msgstr ""
+"È possibile modificare e visualizzare in anteprima anche la fattura, ma non "
+"sarà pubblicata ai vostri clienti."
+
+# @ haetshopstyling
+#: views/admin/settings.php:64 views/admin/settings.php:423
+#: views/admin/settings.php:531
+msgid "Enter your serial number"
+msgstr "Inserisci il tuo numero di serie"
+
+# @ haetshopstyling
+#: views/admin/settings.php:67 views/admin/settings.php:426
+#: views/admin/settings.php:534 views/admin/settings.php:591
+msgid "Get your licence key!"
+msgstr "Prendi la chiave di licenza!"
+
+# @ haetshopstyling
+#: views/admin/settings.php:68 views/admin/settings.php:427
+#: views/admin/settings.php:535 views/admin/settings.php:592
+msgid "Valid for all plugin updates."
+msgstr "Valido per tutti gli aggiornamenti dei plugin."
+
+# @ haetshopstyling
+#: views/admin/settings.php:87 views/admin/settings.php:92
+msgid "preview invoice"
+msgstr "anteprima fattura"
+
+# @ haetshopstyling
+#: views/admin/settings.php:89
+msgid ""
+"This preview shows the invoice layout. It uses data from the latest "
+"purchase, but shipping or sum values may be incorrect or empty."
+msgstr ""
+"Questa anteprima mostra il layout della fattura. Esso utilizza i dati "
+"dall'ultimo acquisto, ma spedizione o somma di valori potrebbero essere "
+"errato o vuoto."
+
+# @ haetshopstyling
+#: views/admin/settings.php:100
+msgid ""
+"The PHP setting \"allow_url_fopen\" is disabled so you can't include "
+"external images. You can use images from this webserver or contact your "
+"hosting provider to change the setting."
+msgstr ""
+"L'impostazione PHP \\\"allow_url_fopen\\\" è disattivato in modo non possono "
+"includere immagini esterne. È possibile utilizzare le immagini da questo "
+"webserver o contattate il vostro fornitore di hosting per modificare "
+"l'impostazione."
+
+# @ haetshopstyling
+#: views/admin/settings.php:113
+msgid "Invoice Footer"
+msgstr "Fattura piè di pagina"
+
+# @ haetshopstyling
+#: views/admin/settings.php:131
+msgid "Paper"
+msgstr "Carta"
+
+# @ haetshopstyling
+#: views/admin/settings.php:140
+msgid "Filename"
+msgstr "nome del file"
+
+# @ haetshopstyling
+#: views/admin/settings.php:143
+msgid "&lt;filename&gt;&lt;invoicenumber&gt;.pdf"
+msgstr ""
+
+# @ haetshopstyling
+#: views/admin/settings.php:147
+msgid "Attach PDF to the transaction report"
+msgstr "Allegare il PDF per il rapporto di transazione"
+
+# @ haetshopstyling
+#: views/admin/settings.php:150 views/admin/settings.php:159
+#: views/admin/settings.php:180 views/admin/settings.php:197
+#: views/admin/settings.php:484
+msgid "enable"
+msgstr "permetti"
+
+# @ haetshopstyling
+#: views/admin/settings.php:151 views/admin/settings.php:160
+#: views/admin/settings.php:181 views/admin/settings.php:198
+#: views/admin/settings.php:485
+msgid "disable"
+msgstr "disabilitare"
+
+# @ haetshopstyling
+#: views/admin/settings.php:194
+msgid "Disable PDF invoice"
+msgstr "Disabilita Fattura PDF"
+
+# @ haetshopstyling
+#: views/admin/settings.php:212
+msgid "Products table"
+msgstr "Tabella prodotti"
+
+# @ haetshopstyling
+#: views/admin/settings.php:213
+msgid ""
+"Customize the fields and headlines for your products table. This table will "
+"show up on your invoice and your mails instead of the according placeholder."
+msgstr ""
+"Personalizzare i campi e le notizie per la tabella prodotti. In questa "
+"tabella verrà visualizzati sulla vostra fattura e la posta elettronica "
+"invece il secondo segnaposto."
+
+# @ haetshopstyling
+#: views/admin/settings.php:214
+msgid ""
+"At the moment your table content will look like this, but the formatting "
+"will be different because of your stylesheets."
+msgstr ""
+"Al momento il contenuto della tabella sarà simile a questo, ma la "
+"formattazione sarà diversa a causa dei vostri fogli di stile."
+
+# @ haetshopstyling
+#: views/admin/settings.php:271
+msgid "Title"
+msgstr "Titolo"
+
+# @ haetshopstyling
+#: views/admin/settings.php:272
+msgid "Field"
+msgstr "Campo"
+
+# @ haetshopstyling
+#: views/admin/settings.php:276
+msgid "Column"
+msgstr "Colonna"
+
+# @ haetshopstyling
+#: views/admin/settings.php:291
+msgid "Email Content - Payment Successful"
+msgstr "Contenuto E-mail - Pagamento Avvenuto"
+
+# @ haetshopstyling
+#: views/admin/settings.php:295 views/admin/settings.php:320
+#: views/admin/settings.php:345 views/admin/settings.php:370
+#: views/admin/settings.php:396
+msgid "Email subject"
+msgstr "Oggetto Email"
+
+# @ haetshopstyling
+#: views/admin/settings.php:316
+msgid "Email Content - Payment Incomplete (or manual payment)"
+msgstr "Contenuto Email - Pagamento Incompleto (Oppure Pagamento Manuale)"
+
+# @ haetshopstyling
+#: views/admin/settings.php:341
+msgid "Email Content - Payment failed"
+msgstr "Contenuto Email - Pagamento Fallito"
+
+# @ haetshopstyling
+#: views/admin/settings.php:366
+msgid "Email Content - Track and Trace Email"
+msgstr "Contenuto Email - Track and Trace Email"
+
+# @ haetshopstyling
+#: views/admin/settings.php:439
+msgid "Style your invoice"
+msgstr "Lo stile della fattura"
+
+# @ haetshopstyling
+#: views/admin/settings.php:449
+msgid "generating pdf invoice..."
+msgstr "Sto generando la fattura in PDF"
+
+# @ haetshopstyling
+#: views/admin/settings.php:450
+msgid "back"
+msgstr "indietro"
+
+# @ haetshopstyling
+#: views/admin/settings.php:467
+msgid "Shop email sender name"
+msgstr "Nome mittente della e-mail del negozio"
+
+# @ haetshopstyling
+#: views/admin/settings.php:470
+msgid "Sender name for mails from your store"
+msgstr "Nome del mittente per i messaggi del tuo negozio"
+
+# @ haetshopstyling
+#: views/admin/settings.php:474 views/admin/settings.php:497
+msgid "From adress"
+msgstr "Dall'indirizzo"
+
+# @ haetshopstyling
+#: views/admin/settings.php:477
+msgid "From address for mails from your store"
+msgstr "Da indirizzo per mail dal tuo negozio"
+
+# @ haetshopstyling
+#: views/admin/settings.php:481
+msgid "Use custom sender for non wpsc mails"
+msgstr "Utilizzare mittente personalizzato per mail non wpsc"
+
+# @ haetshopstyling
+#: views/admin/settings.php:490
+msgid "Email sender name"
+msgstr "Nome Mittente Della E-Mail"
+
+# @ haetshopstyling
+#: views/admin/settings.php:493
+msgid "Sender name for mails outside your store"
+msgstr "Nome del mittente per le mail fuori il tuo negozio"
+
+# @ haetshopstyling
+#: views/admin/settings.php:500
+msgid "From address for mails outside your store"
+msgstr "Dall'indirizzo e-mail all'esterno del tuo negozio"
+
+# @ haetshopstyling
+#: views/admin/settings.php:507
+msgid "Global HTML Mail Template"
+msgstr "Globale modello di posta HTML"
+
+# @ haetshopstyling
+#: views/admin/settings.php:508
+msgid ""
+"Enter your custom HTML code here. Use the placeholder {#mailcontent#} where "
+"you want your content to show up. You can also show the subject in the email "
+"body using the placeholder {#mailsubject#}"
+msgstr ""
+"Inserisci il tuo codice HTML personalizzato qui. Utilizzare il segnaposto "
+"{#mailcontent#} in cui si desidera che il contenuto di presentarsi. È anche "
+"possibile visualizzare il soggetto nel corpo del messaggio usando il "
+"placeholder  {#mailsubject#}"
+
+# @ haetshopstyling
+#: views/admin/settings.php:510
+msgid "preview Email template"
+msgstr "templates di anteprima della Email"
+
+# @ haetshopstyling
+#: views/admin/settings.php:513
+msgid "you can find a few more templates here:"
+msgstr "è possibile trovare alcuni modelli qui:"
+
+# @ haetshopstyling
+#: views/admin/settings.php:530
+msgid ""
+"You can edit the settings but it will not be published to your customers."
+msgstr ""
+"È possibile modificare le impostazioni, ma non sarà pubblicata ai vostri "
+"clienti."
+
+# @ haetshopstyling
+#: views/admin/settings.php:545
+msgid "Results Page - payment successful"
+msgstr "Pagina dei risultati - pagamento andato a buon fine"
+
+# @ haetshopstyling
+#: views/admin/settings.php:557
+msgid "Results Page - payment incomplete (or manual payment)"
+msgstr "Pagina dei risultati - pagamento incompleto (o pagamento manuale)"
+
+# @ haetshopstyling
+#: views/admin/settings.php:569
+msgid "Results Page - payment failed"
+msgstr "Pagina dei risultati - mancato pagamento"
+
+# @ haetshopstyling
+#: views/admin/settings.php:588
+msgid "You have not unlocked all features"
+msgstr "Non hai sbloccato tutte le funzioni"
+
+# @ haetshopstyling
+#: views/admin/settings.php:603
+msgid "Upgrade"
+msgstr "Upgrade"
+
+# @ haetshopstyling
+#: views/admin/settings.php:611
+msgid "Serial for transaction results"
+msgstr "Seriale per i risultati delle transazioni"
+
+# @ haetshopstyling
+#: views/admin/settings.php:621
+msgid "Serial for PDF invoices"
+msgstr "Seriale per le Fatture in PDF"
+
+# @ haetshopstyling
+#: views/admin/settings.php:639
+msgid "Update Settings"
+msgstr "Aggiorna impostazioni"
+
+# @ haetshopstyling
+#: wp-ecommerce-shop-styling.php:89
+msgid "style your store"
+msgstr "il tuo negozio di stile"
+
+# @ haetshopstyling
+#: wp-ecommerce-shop-styling.php:89
+msgid "Shop styling"
+msgstr "Negozio styling"
+
+# @ haetshopstyling
+#: js/editor_invoice_fields.js.php:18
+msgid "Payment gateway"
+msgstr "Metodo di pagamento"
+
+# @ haetshopstyling
+#: js/editor_invoice_fields.js.php:62
+msgid "Total price numeric"
+msgstr "Prezzo totale numerico"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:166
+msgid "Invoice Number"
+msgstr "Fattura Numero"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:369
+msgid "single price incl. tax"
+msgstr "prezzo singolo incl. tassa"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:372
+msgid "price incl. tax"
+msgstr "prezzo incl. tassa"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:375
+msgid "tax per product"
+msgstr "tassa per prodotto"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:376
+msgid "tax sum"
+msgstr "tassa totale"
+
+# @ haetshopstyling
+#: js/editor_invoice_fields.js.php:66
+msgid "Total numeric without tax"
+msgstr "Totale IVA esclusa"
+
+# @ haetshopstyling
+#: js/editor_invoice_fields.js.php:70
+msgid "Total tax numeric"
+msgstr "Totale tassa"
+
+# @ haetshopstyling
+#: views/admin/settings.php:156
+msgid "Send the after accepted payment only"
+msgstr "Inviare solo dopo pagamento Accettato"
+
+# @ haetshopstyling
+#: views/admin/settings.php:162 views/admin/settings.php:183
+msgid "invoice and invoicenumber are generated after successful payment only."
+msgstr "fattura e numero fattura sono generati solo dopo il pagamento."
+
+# @ haetshopstyling
+#: views/admin/settings.php:166
+msgid "Invoice number system"
+msgstr "Sistema numero fatture"
+
+# @ haetshopstyling
+#: views/admin/settings.php:169
+msgid "Order number"
+msgstr "Numero d'ordine"
+
+# @ haetshopstyling
+#: views/admin/settings.php:170
+msgid "Auto incrementing invoice number"
+msgstr "Incremento automatico numero di fattura"
+
+# @ haetshopstyling
+#: views/admin/settings.php:171
+msgid "Manual number"
+msgstr "Numero manuale"
+
+# @ haetshopstyling
+#: views/admin/settings.php:173
+msgid ""
+"The option \"manual number\" will only work with manual payment, because you "
+"have to enter an invoice number, when you change the transaction state to "
+"\"payment accepted\"."
+msgstr ""
+"Invia la fattura dopo il pagamento accettato solo l'opzione \"numero manuale"
+"\" funziona solo con pagamento manuale, in quanto è necessario inserire un "
+"numero di fattura, quando si modifica lo stato delle transazioni \"pagamento "
+"accettati \"."
+
+# @ haetshopstyling
+#: views/admin/settings.php:177
+msgid "Send the invoice after accepted payment only"
+msgstr "Invia la fattura Solo dopo il pagamento"
+
+# @ haetshopstyling
+#: views/admin/settings.php:187
+msgid "Current invoice number"
+msgstr "Attuale numero di fattura"
+
+# @ haetshopstyling
+#: views/admin/settings.php:190
+msgid "this number will be used in the next invoice and incremented afterwards"
+msgstr ""
+"questo numero sarà utilizzato nella prossima fattura e incrementato in "
+"seguito"
+
+# @ haetshopstyling
+#: views/admin/settings.php:392
+msgid "Email Content - Admin Transaction Report"
+msgstr "Contenuto Email- Transaction Report Admin"

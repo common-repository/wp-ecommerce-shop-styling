@@ -1,0 +1,584 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP E-Commerce shop styling v1.6.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-04-19 10:57+0100\n"
+"Last-Translator: \n"
+"Language-Team: Luckid <tyibon@tin.it>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:36
+msgid "invoice"
+msgstr "Faktura"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:37 includes/class-haetshopstyling.php:39
+#: includes/class-haetshopstyling.php:41
+msgid "Your purchase at "
+msgstr "Din beställning hos"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:43
+msgid "Product Tracking Email"
+msgstr "produkt spårnings email"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:48
+msgid "Product"
+msgstr "Produkt"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:49
+msgid "Quantity"
+msgstr "Antal"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:50
+msgid "Price single"
+msgstr "Pris ensam"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:51
+msgid "Tax %"
+msgstr "Moms %"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:52
+msgid "Tax"
+msgstr "Moms"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:53
+msgid "Price"
+msgstr "Pris"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:54
+msgid "Download"
+msgstr "Ladda er"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:275
+#: includes/class-haetshopstyling.php:284
+msgid "Your serial was accepted!"
+msgstr "Ditt serienummer godtogs!"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:295
+msgid "Settings Updated."
+msgstr "Inställningar updaterade."
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:306
+msgid "Email Content"
+msgstr "Email innehåll"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:307
+msgid "Email Template"
+msgstr "Email mall"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:308
+msgid "Products Table"
+msgstr "Produkttabell"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:309 views/admin/settings.php:96
+msgid "Invoice Template"
+msgstr "Fakturamall"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:310
+msgid "Invoice CSS"
+msgstr "Faktura CSS"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:311
+msgid "Transaction Results Page"
+msgstr "Transaktions resultatsidan"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:319
+msgid "item number"
+msgstr "Artikelnummer"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:320
+msgid "product name"
+msgstr "produkt namn"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:321
+msgid "quantity"
+msgstr "antal"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:322
+msgid "single price"
+msgstr "styckpris"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:323
+msgid "product shipping"
+msgstr "produkt frakt"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:324
+msgid "single price without tax"
+msgstr "stuckpris utan moms"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:325
+msgid "price"
+msgstr "pris"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:326
+msgid "price without tax"
+msgstr "pris utan moms"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:327
+msgid "tax rate"
+msgstr "skattesats"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:328
+msgid "tax charged"
+msgstr "moms uttaget"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:329
+msgid "download link"
+msgstr "nerladdnings länk"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:332
+msgid "hide column"
+msgstr "dölja kolumn"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:362
+msgid "Show Invoice"
+msgstr "Visa faktura"
+
+# @ wpsc
+#: includes/class-haetshopstyling.php:626
+msgid "Transaction Report"
+msgstr "Transaktions rapport"
+
+# @ wpsc
+#: includes/class-haetshopstyling.php:633
+msgid "Purchase Receipt"
+msgstr "Inköpskvitto"
+
+# @ wpsc
+#: includes/class-haetshopstyling.php:639
+msgid "Order Pending: Payment Required"
+msgstr "Ordine attesa: Pagamento richiesto"
+
+# @ wpsc
+#: includes/class-haetshopstyling.php:649
+msgid "The administrator has unlocked your file"
+msgstr "L'amministratore ha sbloccato il vostro file"
+
+# @ haetshopstyling
+#: js/editor.js.php:21 js/editor_invoice_fields.js.php:14
+msgid "products table"
+msgstr "produkttabell"
+
+# @ haetshopstyling
+#: js/editor.js.php:25 js/editor_invoice_fields.js.php:22
+msgid "Payment instructions"
+msgstr "Betalningsinstruktioner"
+
+# @ haetshopstyling
+#: js/editor.js.php:29 js/editor_invoice_fields.js.php:26
+msgid "date"
+msgstr "datum"
+
+# @ haetshopstyling
+#: js/editor.js.php:33 js/editor_invoice_fields.js.php:30
+msgid "Shipping base"
+msgstr "Frakt bas"
+
+# @ haetshopstyling
+#: js/editor.js.php:37 js/editor_invoice_fields.js.php:34
+msgid "invoice number"
+msgstr "fakturanummer"
+
+# @ haetshopstyling
+#: js/editor.js.php:41 js/editor_invoice_fields.js.php:38
+msgid "Total shipping"
+msgstr "Total frakt"
+
+# @ haetshopstyling
+#: js/editor.js.php:45 js/editor_invoice_fields.js.php:42
+msgid "Total product price"
+msgstr "Totalt produktpris"
+
+# @ haetshopstyling
+#: js/editor.js.php:49 js/editor_invoice_fields.js.php:46
+msgid "Total tax"
+msgstr "Total moms"
+
+# @ haetshopstyling
+#: js/editor.js.php:53 js/editor_invoice_fields.js.php:50
+msgid "Discount"
+msgstr "Rabatt"
+
+# @ haetshopstyling
+#: js/editor.js.php:57 js/editor_invoice_fields.js.php:54
+msgid "Total price"
+msgstr "Totalt pris"
+
+# @ haetshopstyling
+#: js/editor.js.php:61 js/editor_invoice_fields.js.php:58
+msgid "Tracking ID"
+msgstr "Spårnings ID"
+
+# @ haetshopstyling
+#: js/editor.js.php:86
+msgid "Placeholders"
+msgstr "Platsmarkörer"
+
+# @ haetshopstyling
+#: js/editor_checkoutform_fields.js.php:43
+msgid "Checkout Fields"
+msgstr "Kassa fält"
+
+# @ haetshopstyling
+#: js/editor_invoice_fields.js.php:76
+msgid "Invoice Fields"
+msgstr "Faktura fält"
+
+# @ haetshopstyling
+#: views/admin/settings.php:42
+msgid "Style your store"
+msgstr "Styla din butik"
+
+# @ haetshopstyling
+#: views/admin/settings.php:62 views/admin/settings.php:356
+#: views/admin/settings.php:464
+msgid "You have not unlocked this feature yet"
+msgstr "Du har inte låste upp den här funktionen ännu"
+
+# @ haetshopstyling
+#: views/admin/settings.php:63 views/admin/settings.php:357
+msgid ""
+"You can edit and even preview the invoice but it will not be published to "
+"your customers."
+msgstr ""
+"Du kan redigera och även förhandsgranska fakturan men det kommer inte att "
+"publiceras till dina kunder."
+
+# @ haetshopstyling
+#: views/admin/settings.php:64 views/admin/settings.php:358
+#: views/admin/settings.php:466
+msgid "Enter your serial number"
+msgstr "Ange ditt serienummer"
+
+# @ haetshopstyling
+#: views/admin/settings.php:67 views/admin/settings.php:361
+#: views/admin/settings.php:469 views/admin/settings.php:526
+msgid "Get your licence key!"
+msgstr "Skaffa en licensnyckel!"
+
+# @ haetshopstyling
+#: views/admin/settings.php:68 views/admin/settings.php:362
+#: views/admin/settings.php:470 views/admin/settings.php:527
+msgid "Valid for all plugin updates."
+msgstr "Gäller för alla plugin uppdateringar."
+
+# @ haetshopstyling
+#: views/admin/settings.php:87 views/admin/settings.php:92
+msgid "preview invoice"
+msgstr "förhandsgranska faktura"
+
+# @ haetshopstyling
+#: views/admin/settings.php:89
+msgid ""
+"This preview shows the invoice layout. It uses data from the latest "
+"purchase, but shipping or sum values may be incorrect or empty."
+msgstr ""
+"Denna förhandsvisning visar fakturans layout. Den använder data från det "
+"senaste köpet, men frakt eller summorna kan vara felaktiga eller tomma."
+
+# @ haetshopstyling
+#: views/admin/settings.php:100
+msgid ""
+"The PHP setting \"allow_url_fopen\" is disabled so you can't include "
+"external images. You can use images from this webserver or contact your "
+"hosting provider to change the setting."
+msgstr ""
+"PHP inställningen \"allow_url_fopen\"  är inaktiverat så du kan inte "
+"inkludera externa bilder. Du kan använda bilder från denna webbserver eller "
+"kontakta webbhotellet för att ändra inställningen."
+
+# @ haetshopstyling
+#: views/admin/settings.php:113
+msgid "Invoice Footer"
+msgstr "Faktura sidfot"
+
+# @ haetshopstyling
+#: views/admin/settings.php:131
+msgid "Paper"
+msgstr "Papper"
+
+# @ haetshopstyling
+#: views/admin/settings.php:140
+msgid "Filename"
+msgstr "Filnamn"
+
+# @ haetshopstyling
+#: views/admin/settings.php:143
+msgid "&lt;filename&gt;&lt;invoicenumber&gt;.pdf"
+msgstr ""
+
+# @ haetshopstyling
+#: views/admin/settings.php:147
+msgid "Attach PDF to the transaction report"
+msgstr "Bifoga PDF med transaktionen rapporten"
+
+# @ haetshopstyling
+#: views/admin/settings.php:150 views/admin/settings.php:159
+#: views/admin/settings.php:419
+msgid "enable"
+msgstr "aktivera"
+
+# @ haetshopstyling
+#: views/admin/settings.php:151 views/admin/settings.php:160
+#: views/admin/settings.php:420
+msgid "disable"
+msgstr "inaktivera"
+
+# @ haetshopstyling
+#: views/admin/settings.php:156
+msgid "Disable PDF invoice"
+msgstr "Inaktivera PDF faktura"
+
+# @ haetshopstyling
+#: views/admin/settings.php:174
+msgid "Products table"
+msgstr "Produkttabell"
+
+# @ haetshopstyling
+#: views/admin/settings.php:175
+msgid ""
+"Customize the fields and headlines for your products table. This table will "
+"show up on your invoice and your mails instead of the according placeholder."
+msgstr ""
+"Anpassa fält och rubriker för dina produkttabell. Denna tabell kommer att "
+"dyka upp på din faktura och dina mail i stället för motsvarande "
+"platshållaren."
+
+# @ haetshopstyling
+#: views/admin/settings.php:176
+msgid ""
+"At the moment your table content will look like this, but the formatting "
+"will be different because of your stylesheets."
+msgstr ""
+"Just nu kommer ditt tabell innehåll att se ut så här, men formateringen "
+"kommer att vara annorlunda på grund av dina stilmallar."
+
+# @ haetshopstyling
+#: views/admin/settings.php:231
+msgid "Title"
+msgstr "Titel"
+
+# @ haetshopstyling
+#: views/admin/settings.php:232
+msgid "Field"
+msgstr "Fält"
+
+# @ haetshopstyling
+#: views/admin/settings.php:236
+msgid "Column"
+msgstr "Kolumn"
+
+# @ haetshopstyling
+#: views/admin/settings.php:251
+msgid "Email Content - Payment Successful"
+msgstr "Email innehåll - betalning genomförd"
+
+# @ haetshopstyling
+#: views/admin/settings.php:255 views/admin/settings.php:280
+#: views/admin/settings.php:305 views/admin/settings.php:330
+msgid "Email subject"
+msgstr "Email ämne"
+
+# @ haetshopstyling
+#: views/admin/settings.php:276
+msgid "Email Content - Payment Incomplete (or manual payment)"
+msgstr "Email innehåll - Betalning ofullständig (eller manuell betalning)"
+
+# @ haetshopstyling
+#: views/admin/settings.php:301
+msgid "Email Content - Payment failed"
+msgstr "Email innehåll - betalning misslyckades"
+
+# @ haetshopstyling
+#: views/admin/settings.php:326
+msgid "Email Content - Track and Trace Email"
+msgstr "Email innehåll -  Spårningsmail"
+
+# @ haetshopstyling
+#: views/admin/settings.php:374
+msgid "Style your invoice"
+msgstr "Utformar din faktura"
+
+# @ haetshopstyling
+#: views/admin/settings.php:384
+msgid "generating pdf invoice..."
+msgstr "generera pdf faktura ..."
+
+# @ haetshopstyling
+#: views/admin/settings.php:385
+msgid "back"
+msgstr "tillbaka"
+
+# @ haetshopstyling
+#: views/admin/settings.php:402
+msgid "Shop email sender name"
+msgstr "Butik email avsändarens namn"
+
+# @ haetshopstyling
+#: views/admin/settings.php:405
+msgid "Sender name for mails from your store"
+msgstr "Avsändarnamn för e-post från din butik"
+
+# @ haetshopstyling
+#: views/admin/settings.php:409 views/admin/settings.php:432
+msgid "From adress"
+msgstr "Från adress"
+
+# @ haetshopstyling
+#: views/admin/settings.php:412
+msgid "From address for mails from your store"
+msgstr "Från adress för e-post från din butik"
+
+# @ haetshopstyling
+#: views/admin/settings.php:416
+msgid "Use custom sender for non wpsc mails"
+msgstr "Använd anpassad avsändare för icke wpsc e-post"
+
+# @ haetshopstyling
+#: views/admin/settings.php:425
+msgid "Email sender name"
+msgstr "E-post avsändare"
+
+# @ haetshopstyling
+#: views/admin/settings.php:428
+msgid "Sender name for mails outside your store"
+msgstr "Avsändar namn för e-post utanför din butik"
+
+# @ haetshopstyling
+#: views/admin/settings.php:435
+msgid "From address for mails outside your store"
+msgstr "Från adress för e-post utanför din butik"
+
+# @ haetshopstyling
+#: views/admin/settings.php:442
+msgid "Global HTML Mail Template"
+msgstr "Global HTML e-postmall"
+
+# @ haetshopstyling
+#: views/admin/settings.php:443
+msgid ""
+"Enter your custom HTML code here. Use the placeholder {#mailcontent#} where "
+"you want your content to show up. You can also show the subject in the email "
+"body using the placeholder {#mailsubject#}"
+msgstr ""
+"Skriv din egen HTML-kod här. Använd {#mailcontent#} platshållaren där du "
+"vill att ditt innehåll ska visas upp. Du kan även visa motivet i e-post "
+"stommen genom {#mailsubject#} platshållaren"
+
+# @ haetshopstyling
+#: views/admin/settings.php:445
+msgid "preview Email template"
+msgstr "förhandsgranska e-post mall"
+
+# @ haetshopstyling
+#: views/admin/settings.php:448
+msgid "you can find a few more templates here:"
+msgstr "du kan hitta fler mallar här:"
+
+# @ haetshopstyling
+#: views/admin/settings.php:465
+msgid ""
+"You can edit the settings but it will not be published to your customers."
+msgstr ""
+"Du kan ändra inställningarna men det kommer inte att visas för dina kunder."
+
+# @ haetshopstyling
+#: views/admin/settings.php:480
+msgid "Results Page - payment successful"
+msgstr "Resultatsida - betalning genomförd"
+
+# @ haetshopstyling
+#: views/admin/settings.php:492
+msgid "Results Page - payment incomplete (or manual payment)"
+msgstr "Resultatsida - betalning ofullständig (eller manuell betalning)"
+
+# @ haetshopstyling
+#: views/admin/settings.php:504
+msgid "Results Page - payment failed"
+msgstr "Resultatsida - betalning misslyckades"
+
+# @ haetshopstyling
+#: views/admin/settings.php:523
+msgid "You have not unlocked all features"
+msgstr "Du har inte låst upp alla funktioner"
+
+# @ haetshopstyling
+#: views/admin/settings.php:538
+msgid "Upgrade"
+msgstr "Uppgradera"
+
+# @ haetshopstyling
+#: views/admin/settings.php:546
+msgid "Serial for transaction results"
+msgstr "Serienummer för transaktions resultat"
+
+# @ haetshopstyling
+#: views/admin/settings.php:556
+msgid "Serial for PDF invoices"
+msgstr "Serienummer för PDF fakturor"
+
+# @ haetshopstyling
+#: views/admin/settings.php:574
+msgid "Update Settings"
+msgstr "Uppdatera inställningar"
+
+# @ haetshopstyling
+#: wp-ecommerce-shop-styling.php:82
+msgid "style your store"
+msgstr "Styla din butik"
+
+# @ haetshopstyling
+#: wp-ecommerce-shop-styling.php:82
+msgid "Shop styling"
+msgstr "Butik styling"
+
+# @ haetshopstyling
+#: js/editor_invoice_fields.js.php:18
+msgid "Payment gateway"
+msgstr "Betalningssätt"
+
+# @ haetshopstyling
+#: js/editor_invoice_fields.js.php:62
+msgid "Total price numeric"
+msgstr "Totalpris numerisk"

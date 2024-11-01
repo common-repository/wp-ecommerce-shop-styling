@@ -1,0 +1,583 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP E-Commerce shop styling v1.6.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-05-09 22:38+0100\n"
+"Last-Translator: Kamadeva <kamadeva@post.cz>\n"
+"Language-Team: Kamadeva <kamadeva@post.cz>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: cs_CZ\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:36
+msgid "invoice"
+msgstr "faktura"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:295
+msgid "Settings Updated."
+msgstr "Nastavení bylo uloženo"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:308
+msgid "Products Table"
+msgstr "Tabulka produktů"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:332
+msgid "hide column"
+msgstr "skrýt sloupec"
+
+# @ haetshopstyling
+#: js/editor.js.php:21 js/editor_invoice_fields.js.php:14
+msgid "products table"
+msgstr "tabulka produktů"
+
+# @ haetshopstyling
+#: js/editor.js.php:29 js/editor_invoice_fields.js.php:26
+msgid "date"
+msgstr "datum"
+
+# @ haetshopstyling
+#: js/editor.js.php:33 js/editor_invoice_fields.js.php:30
+msgid "Shipping base"
+msgstr "Základní poštovné"
+
+# @ haetshopstyling
+#: js/editor.js.php:37 js/editor_invoice_fields.js.php:34
+msgid "invoice number"
+msgstr "číslo faktury"
+
+# @ haetshopstyling
+#: js/editor.js.php:41 js/editor_invoice_fields.js.php:38
+msgid "Total shipping"
+msgstr "Poštovné celkem"
+
+# @ haetshopstyling
+#: js/editor.js.php:45 js/editor_invoice_fields.js.php:42
+msgid "Total product price"
+msgstr "Cena celkem"
+
+# @ haetshopstyling
+#: js/editor.js.php:49 js/editor_invoice_fields.js.php:46
+msgid "Total tax"
+msgstr "Daň celkem"
+
+# @ haetshopstyling
+#: js/editor.js.php:53 js/editor_invoice_fields.js.php:50
+msgid "Discount"
+msgstr "Sleva"
+
+# @ haetshopstyling
+#: js/editor.js.php:57 js/editor_invoice_fields.js.php:54
+msgid "Total price"
+msgstr "Celková cena"
+
+# @ haetshopstyling
+#: js/editor.js.php:86
+msgid "Placeholders"
+msgstr "Odkazy"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:309 views/admin/settings.php:96
+msgid "Invoice Template"
+msgstr "Šablona faktury"
+
+# @ haetshopstyling
+#: views/admin/settings.php:113
+msgid "Invoice Footer"
+msgstr "Zápatí faktury"
+
+# @ haetshopstyling
+#: views/admin/settings.php:174
+msgid "Products table"
+msgstr "Tabulka produktů"
+
+# @ haetshopstyling
+#: views/admin/settings.php:231
+msgid "Title"
+msgstr "Název"
+
+# @ haetshopstyling
+#: views/admin/settings.php:232
+msgid "Field"
+msgstr "Pole"
+
+# @ haetshopstyling
+#: views/admin/settings.php:236
+msgid "Column"
+msgstr "Sloupec"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:307
+msgid "Email Template"
+msgstr "Šablona e-mailu"
+
+# @ haetshopstyling
+#: views/admin/settings.php:255 views/admin/settings.php:280
+#: views/admin/settings.php:305 views/admin/settings.php:330
+msgid "Email subject"
+msgstr "Předmět e-mailu"
+
+# @ haetshopstyling
+#: views/admin/settings.php:374
+msgid "Style your invoice"
+msgstr "Upravte si vzhled faktury"
+
+# @ haetshopstyling
+#: views/admin/settings.php:131
+msgid "Paper"
+msgstr "Rozměr papíru"
+
+# @ haetshopstyling
+#: views/admin/settings.php:140
+msgid "Filename"
+msgstr "Jméno souboru"
+
+# @ haetshopstyling
+#: views/admin/settings.php:143
+msgid "&lt;filename&gt;&lt;invoicenumber&gt;.pdf"
+msgstr "&lt;filename&gt;&lt;invoicenumber&gt;.pdf"
+
+# @ haetshopstyling
+#: views/admin/settings.php:574
+msgid "Update Settings"
+msgstr "Uložit nastavení"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:319
+msgid "item number"
+msgstr "číslo položky"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:320
+msgid "product name"
+msgstr "název produktu"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:321
+msgid "quantity"
+msgstr "množství"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:322
+msgid "single price"
+msgstr "cena za MJ"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:323
+msgid "product shipping"
+msgstr "poštovné"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:324
+msgid "single price without tax"
+msgstr "cena za MJ bez daně"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:325
+msgid "price"
+msgstr "cena"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:326
+msgid "price without tax"
+msgstr "cena bez daně"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:327
+msgid "tax rate"
+msgstr "daň %"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:328
+msgid "tax charged"
+msgstr "účtovaná daň"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:48
+msgid "Product"
+msgstr "Produkt"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:49
+msgid "Quantity"
+msgstr "Množství"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:50
+msgid "Price single"
+msgstr "Cena za MJ"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:51
+msgid "Tax %"
+msgstr "Daň %"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:52
+msgid "Tax"
+msgstr "Daň"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:53
+msgid "Price"
+msgstr "Cena"
+
+# @ haetshopstyling
+#: views/admin/settings.php:42
+msgid "Style your store"
+msgstr "Upravte svůj obchod"
+
+# @ haetshopstyling
+#: views/admin/settings.php:62 views/admin/settings.php:356
+#: views/admin/settings.php:464
+msgid "You have not unlocked this feature yet"
+msgstr "Zatím jste si neodemkli tuto možnost."
+
+# @ haetshopstyling
+#: views/admin/settings.php:63 views/admin/settings.php:357
+msgid ""
+"You can edit and even preview the invoice but it will not be published to "
+"your customers."
+msgstr ""
+"Můžete upravovat a prohlížet svou fakturu, ale nebude poslána vaším "
+"zákazníkům."
+
+# @ haetshopstyling
+#: views/admin/settings.php:64 views/admin/settings.php:358
+#: views/admin/settings.php:466
+msgid "Enter your serial number"
+msgstr "Vložte své seriové číslo"
+
+# @ haetshopstyling
+#: views/admin/settings.php:67 views/admin/settings.php:361
+#: views/admin/settings.php:469 views/admin/settings.php:526
+msgid "Get your licence key!"
+msgstr "Získat váš licenční kód!"
+
+# @ haetshopstyling
+#: views/admin/settings.php:68 views/admin/settings.php:362
+#: views/admin/settings.php:470 views/admin/settings.php:527
+msgid "Valid for all plugin updates."
+msgstr "Funguje na všechny aktualizace pluginu."
+
+# @ haetshopstyling
+#: views/admin/settings.php:87 views/admin/settings.php:92
+msgid "preview invoice"
+msgstr "Náhled faktury"
+
+# @ haetshopstyling
+#: views/admin/settings.php:89
+msgid ""
+"This preview shows the invoice layout. It uses data from the latest "
+"purchase, but shipping or sum values may be incorrect or empty."
+msgstr ""
+"Tento náhled zobrazuje vzhled faktury. Používá data z poslední objednávky, "
+"ale poštovné nebo hodnoty součtů mohou být nesprávné nebo prázdné."
+
+# @ haetshopstyling
+#: views/admin/settings.php:100
+msgid ""
+"The PHP setting \"allow_url_fopen\" is disabled so you can't include "
+"external images. You can use images from this webserver or contact your "
+"hosting provider to change the setting."
+msgstr ""
+"Nastavení PHP \"allow_url_fopen\" je zakázáno, takže nemůžete vkládat "
+"externí obrázky. Můžete používat obrázky z tohoto serveru nebo kontaktovat "
+"svého správce webhostingu, aby změnil nastavení."
+
+# @ haetshopstyling
+#: views/admin/settings.php:156
+msgid "Disable PDF invoice"
+msgstr "Zakázat PDF faktury"
+
+# @ haetshopstyling
+#: views/admin/settings.php:150 views/admin/settings.php:159
+#: views/admin/settings.php:419
+msgid "enable"
+msgstr "povolit"
+
+# @ haetshopstyling
+#: views/admin/settings.php:151 views/admin/settings.php:160
+#: views/admin/settings.php:420
+msgid "disable"
+msgstr "zakázat"
+
+# @ haetshopstyling
+#: views/admin/settings.php:175
+msgid ""
+"Customize the fields and headlines for your products table. This table will "
+"show up on your invoice and your mails instead of the according placeholder."
+msgstr ""
+"Upravte si pole a hlavičky vaší tabulky produktů. Tato tabulka se zobrazí ve "
+"vaší faktuře a vašich e-mailech místo původní."
+
+# @ haetshopstyling
+#: views/admin/settings.php:176
+msgid ""
+"At the moment your table content will look like this, but the formatting "
+"will be different because of your stylesheets."
+msgstr ""
+"Momentálně vaše tabulka vypadá takto, ale formátování bude rozdílné kvůli "
+"nastavení vašeho CSS."
+
+# @ haetshopstyling
+#: views/admin/settings.php:251
+msgid "Email Content - Payment Successful"
+msgstr "Obsah e-mailu - platba přijata"
+
+# @ haetshopstyling
+#: views/admin/settings.php:276
+msgid "Email Content - Payment Incomplete (or manual payment)"
+msgstr "Obsah e-mailu - neúplná platba (nebo platba hotově)"
+
+# @ haetshopstyling
+#: views/admin/settings.php:301
+msgid "Email Content - Payment failed"
+msgstr "Obsah e-mailu - nepřijatá platba"
+
+# @ haetshopstyling
+#: views/admin/settings.php:326
+msgid "Email Content - Track and Trace Email"
+msgstr "Obsah e-mailu - Sledovací e-mail"
+
+# @ haetshopstyling
+#: views/admin/settings.php:384
+msgid "generating pdf invoice..."
+msgstr "vytvářím pdf fakturu..."
+
+# @ haetshopstyling
+#: views/admin/settings.php:385
+msgid "back"
+msgstr "zpět"
+
+# @ haetshopstyling
+#: views/admin/settings.php:442
+msgid "Global HTML Mail Template"
+msgstr "Hlavní šablona e-mailu v HTML"
+
+# @ haetshopstyling
+#: views/admin/settings.php:445
+msgid "preview Email template"
+msgstr "náhled šablony e-mailu"
+
+# @ haetshopstyling
+#: views/admin/settings.php:448
+msgid "you can find a few more templates here:"
+msgstr "zde můžete nalézt více šablon:"
+
+# @ haetshopstyling
+#: views/admin/settings.php:465
+msgid ""
+"You can edit the settings but it will not be published to your customers."
+msgstr "Můžete upravit nastavení, ale nebude zveřejněno pro vaše zákazníky."
+
+# @ haetshopstyling
+#: views/admin/settings.php:480
+msgid "Results Page - payment successful"
+msgstr "Strana s výsledkem - platba přijata"
+
+# @ haetshopstyling
+#: views/admin/settings.php:492
+msgid "Results Page - payment incomplete (or manual payment)"
+msgstr "Strana s výsledkem - neúplná platba (nebo platba hotově)"
+
+# @ haetshopstyling
+#: views/admin/settings.php:504
+msgid "Results Page - payment failed"
+msgstr "Strana s výsledkem - nepřijatá platba"
+
+# @ haetshopstyling
+#: views/admin/settings.php:523
+msgid "You have not unlocked all features"
+msgstr "Neodemkli jste zatím všechny možnosti"
+
+# @ haetshopstyling
+#: views/admin/settings.php:538
+msgid "Upgrade"
+msgstr "Aktualizace"
+
+# @ haetshopstyling
+#: views/admin/settings.php:546
+msgid "Serial for transaction results"
+msgstr "Seriové číslo pro výsledky transakce"
+
+# @ haetshopstyling
+#: views/admin/settings.php:556
+msgid "Serial for PDF invoices"
+msgstr "Seriové číslo pro faktury v PDF"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:37 includes/class-haetshopstyling.php:39
+#: includes/class-haetshopstyling.php:41
+msgid "Your purchase at "
+msgstr "Vaše objednávka v"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:43
+msgid "Product Tracking Email"
+msgstr "E-mail sledování produktu"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:54
+msgid "Download"
+msgstr "Stažení"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:275
+#: includes/class-haetshopstyling.php:284
+msgid "Your serial was accepted!"
+msgstr "Vaše seriové číslo bylo přijato!"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:306
+msgid "Email Content"
+msgstr "Obsah e-mailu"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:310
+msgid "Invoice CSS"
+msgstr "CSS faktury"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:311
+msgid "Transaction Results Page"
+msgstr "Strany s výsledky"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:329
+msgid "download link"
+msgstr "odkaz na stažení"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:362
+msgid "Show Invoice"
+msgstr "Zobrazit fakturu"
+
+# @ wpsc
+#: includes/class-haetshopstyling.php:626
+msgid "Transaction Report"
+msgstr "Souhrn transakce"
+
+# @ wpsc
+#: includes/class-haetshopstyling.php:633
+msgid "Purchase Receipt"
+msgstr "Objednávka"
+
+# @ wpsc
+#: includes/class-haetshopstyling.php:639
+msgid "Order Pending: Payment Required"
+msgstr "Objednávka nevyřízena: Je třeba zaplatit"
+
+# @ wpsc
+#: includes/class-haetshopstyling.php:649
+msgid "The administrator has unlocked your file"
+msgstr "Administrátor odemknul váš soubor"
+
+# @ haetshopstyling
+#: js/editor.js.php:25 js/editor_invoice_fields.js.php:22
+msgid "Payment instructions"
+msgstr "Instrukce pro platbu"
+
+# @ haetshopstyling
+#: js/editor.js.php:61 js/editor_invoice_fields.js.php:58
+msgid "Tracking ID"
+msgstr "Číslo pro sledování zásilky"
+
+# @ haetshopstyling
+#: js/editor_checkoutform_fields.js.php:43
+msgid "Checkout Fields"
+msgstr "Pole objednávky"
+
+# @ haetshopstyling
+#: js/editor_invoice_fields.js.php:76
+msgid "Invoice Fields"
+msgstr "Pole faktury"
+
+# @ haetshopstyling
+#: views/admin/settings.php:147
+msgid "Attach PDF to the transaction report"
+msgstr "Přidat PDF k souhrnu transakce"
+
+# @ haetshopstyling
+#: views/admin/settings.php:402
+msgid "Shop email sender name"
+msgstr "Jméno odesílatele e-mailu z obchodu"
+
+# @ haetshopstyling
+#: views/admin/settings.php:405
+msgid "Sender name for mails from your store"
+msgstr "Jméno odesílatele pro maily z vašeho obchodu"
+
+# @ haetshopstyling
+#: views/admin/settings.php:409 views/admin/settings.php:432
+msgid "From adress"
+msgstr "Z adresy"
+
+# @ haetshopstyling
+#: views/admin/settings.php:412
+msgid "From address for mails from your store"
+msgstr "Z adresy pro maily z vašeho obchodu"
+
+# @ haetshopstyling
+#: views/admin/settings.php:416
+msgid "Use custom sender for non wpsc mails"
+msgstr "Použít vlastní způsob odesílání pro e-maily co nejsou od wpsc"
+
+# @ haetshopstyling
+#: views/admin/settings.php:425
+msgid "Email sender name"
+msgstr "Jméno odesílatele e-mailu"
+
+# @ haetshopstyling
+#: views/admin/settings.php:428
+msgid "Sender name for mails outside your store"
+msgstr "Jméno odesílatele pro maily mimo váš obchod"
+
+# @ haetshopstyling
+#: views/admin/settings.php:435
+msgid "From address for mails outside your store"
+msgstr "Z adresy pro maily mimo váš obchod"
+
+# @ haetshopstyling
+#: views/admin/settings.php:443
+msgid ""
+"Enter your custom HTML code here. Use the placeholder {#mailcontent#} where "
+"you want your content to show up. You can also show the subject in the email "
+"body using the placeholder {#mailsubject#}"
+msgstr ""
+"Vložte sem svůj vlastní HTML kód. Používejte odkaz {#mailcontent#} na místě "
+"kde chcete zobrazit váš obsah. Můžete také zobrazit předmět v těle e-mailu "
+"použitím odkazu {#mailsubject#}."
+
+# @ haetshopstyling
+#: wp-ecommerce-shop-styling.php:82
+msgid "style your store"
+msgstr "Upravte si svůj obchod"
+
+# @ haetshopstyling
+#: wp-ecommerce-shop-styling.php:82
+msgid "Shop styling"
+msgstr "Vzhled obchodu"
+
+# @ haetshopstyling
+#: js/editor_invoice_fields.js.php:18
+msgid "Payment gateway"
+msgstr "Platební brána"
+
+# @ haetshopstyling
+#: js/editor_invoice_fields.js.php:62
+msgid "Total price numeric"
+msgstr "Celková cena"

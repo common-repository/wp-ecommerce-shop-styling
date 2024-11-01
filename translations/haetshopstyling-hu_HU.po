@@ -1,0 +1,531 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP E-Commerce styled PDF invoice v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-15 20:14+0100\n"
+"PO-Revision-Date: 2013-01-15 22:17+0100\n"
+"Last-Translator: Tóth Sándor <tsend@freemail.hu>\n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ haetshopstyling
+#: wp-ecommerce-shop-styling.php:79
+msgid "style your store"
+msgstr "Szabd testre a webshopod"
+
+#: wp-ecommerce-shop-styling.php:79
+msgid "Shop styling"
+msgstr "Shop styling"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:36
+msgid "invoice"
+msgstr "számla"
+
+#: includes/class-haetshopstyling.php:37 includes/class-haetshopstyling.php:39
+#: includes/class-haetshopstyling.php:41
+msgid "Your purchase at "
+msgstr "Itt vásároltál: "
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:43
+msgid "Product Tracking Email"
+msgstr "Termékkövető email"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:48
+msgid "Product"
+msgstr "Termék"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:49
+msgid "Quantity"
+msgstr "Mennyiség"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:50
+msgid "Price single"
+msgstr "Egységár"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:51
+msgid "Tax %"
+msgstr "ÁFA %"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:52
+msgid "Tax"
+msgstr "ÁFA"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:53
+msgid "Price"
+msgstr "Ár"
+
+#: includes/class-haetshopstyling.php:54
+msgid "Download"
+msgstr "Letöltés"
+
+#: includes/class-haetshopstyling.php:275
+#: includes/class-haetshopstyling.php:284
+msgid "Your serial was accepted!"
+msgstr "A sorozatszámod érvényes!"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:295
+msgid "Settings Updated."
+msgstr "Beállítások frissítése megtörtént."
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:306
+msgid "Email Content"
+msgstr "Email tartalma"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:307
+msgid "Email Template"
+msgstr "Email sablon"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:308
+msgid "Products Table"
+msgstr "Rendelés összesítő táblázat"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:309 views/admin/settings.php:96
+msgid "Invoice Template"
+msgstr "Számla sablon"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:310
+msgid "Invoice CSS"
+msgstr "Számla CSS"
+
+#: includes/class-haetshopstyling.php:311
+msgid "Transaction Results Page"
+msgstr "Rendelés összesítő oldal"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:319
+msgid "item number"
+msgstr "sorszám"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:320
+msgid "product name"
+msgstr "termék neve"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:321
+msgid "quantity"
+msgstr "mennyiség"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:322
+msgid "single price"
+msgstr "egységár"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:323
+msgid "product shipping"
+msgstr "termék szállítási költsége"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:324
+msgid "single price without tax"
+msgstr "nettó egységár"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:325
+msgid "price"
+msgstr "ár"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:326
+msgid "price without tax"
+msgstr "nettó ár"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:327
+msgid "tax rate"
+msgstr "adókulcs"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:328
+msgid "tax charged"
+msgstr "kivetett adó"
+
+#: includes/class-haetshopstyling.php:329
+msgid "download link"
+msgstr "letöltési link"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:332
+msgid "hide column"
+msgstr "Az oszlop elrejtése"
+
+# @ haetshopstyling
+#: includes/class-haetshopstyling.php:362
+msgid "Show Invoice"
+msgstr "Számla megtekintése"
+
+#: includes/class-haetshopstyling.php:595
+msgid "Transaction Report"
+msgstr "Tranzakció öszesítő"
+
+#: includes/class-haetshopstyling.php:602
+msgid "Purchase Receipt"
+msgstr "Fizetési nyugta"
+
+#: includes/class-haetshopstyling.php:608
+msgid "Order Pending: Payment Required"
+msgstr "Rendelés folyamtban- fizetés szükséges"
+
+#: includes/class-haetshopstyling.php:618
+msgid "The administrator has unlocked your file"
+msgstr "Az adminisztrátor engedélyezte a fájljaidat."
+
+# @ haetshopstyling
+#: js/editor.js.php:21 js/editor_invoice_fields.js.php:14
+msgid "products table"
+msgstr "termék táblázat"
+
+#: js/editor.js.php:25 js/editor_invoice_fields.js.php:18
+msgid "Payment instructions"
+msgstr "Fizetési instrukciók"
+
+# @ haetshopstyling
+#: js/editor.js.php:29 js/editor_invoice_fields.js.php:22
+msgid "date"
+msgstr "dátum"
+
+# @ haetshopstyling
+#: js/editor.js.php:33 js/editor_invoice_fields.js.php:26
+msgid "Shipping base"
+msgstr "Szállítási alapár"
+
+# @ haetshopstyling
+#: js/editor.js.php:37 js/editor_invoice_fields.js.php:30
+msgid "invoice number"
+msgstr "Számla sorszáma"
+
+# @ haetshopstyling
+#: js/editor.js.php:41 js/editor_invoice_fields.js.php:34
+msgid "Total shipping"
+msgstr "Összes szállítási díj "
+
+# @ haetshopstyling
+#: js/editor.js.php:45 js/editor_invoice_fields.js.php:38
+msgid "Total product price"
+msgstr "Összár (szállítási díj nélkül) "
+
+# @ haetshopstyling
+#: js/editor.js.php:49 js/editor_invoice_fields.js.php:42
+msgid "Total tax"
+msgstr "Adótartalom"
+
+# @ haetshopstyling
+#: js/editor.js.php:53 js/editor_invoice_fields.js.php:46
+msgid "Discount"
+msgstr "Kedvezmény"
+
+# @ haetshopstyling
+#: js/editor.js.php:57 js/editor_invoice_fields.js.php:50
+msgid "Total price"
+msgstr "Összesen"
+
+#: js/editor.js.php:61 js/editor_invoice_fields.js.php:54
+msgid "Tracking ID"
+msgstr "Követési kód"
+
+# @ haetshopstyling
+#: js/editor.js.php:86
+msgid "Placeholders"
+msgstr "Kódok (változók)"
+
+#: js/editor_checkoutform_fields.js.php:43
+msgid "Checkout Fields"
+msgstr "Kosár adatmezők"
+
+# @ haetshopstyling
+#: js/editor_invoice_fields.js.php:67
+msgid "Invoice Fields"
+msgstr "Számla adatmezők"
+
+# @ haetshopstyling
+#: views/admin/settings.php:42
+msgid "Style your store"
+msgstr "Szabd testre a webshopod"
+
+#: views/admin/settings.php:62 views/admin/settings.php:356
+#: views/admin/settings.php:464
+msgid "You have not unlocked this feature yet"
+msgstr "Még nem aktiváltad ezt a funkciót."
+
+#: views/admin/settings.php:63 views/admin/settings.php:357
+msgid ""
+"You can edit and even preview the invoice but it will not be published to "
+"your customers."
+msgstr ""
+"Bármit módosíthatsz, még a számla előnézetét is megtekintheted, de a "
+"publikus felületen a vásárlók számára ez nem lesz látható."
+
+#: views/admin/settings.php:64 views/admin/settings.php:358
+#: views/admin/settings.php:466
+msgid "Enter your serial number"
+msgstr "Írd be a sorozatszámod"
+
+#: views/admin/settings.php:67 views/admin/settings.php:361
+#: views/admin/settings.php:469 views/admin/settings.php:526
+msgid "Get your licence key!"
+msgstr "Szerezd be a licenckulcsot!"
+
+#: views/admin/settings.php:68 views/admin/settings.php:362
+#: views/admin/settings.php:470 views/admin/settings.php:527
+msgid "Valid for all plugin updates."
+msgstr "Érvényes a bővítmény minden frissítésére is."
+
+# @ haetshopstyling
+#: views/admin/settings.php:87 views/admin/settings.php:92
+msgid "preview invoice"
+msgstr "Számla előnézete"
+
+#: views/admin/settings.php:89
+msgid ""
+"This preview shows the invoice layout. It uses data from the latest "
+"purchase, but shipping or sum values may be incorrect or empty."
+msgstr ""
+"Ez az előnézet a számla elrendezését mutatja. Alegutóbbi vásárlás adatait "
+"használja, de a szállítási összegek vagy fizetési összegek lehetnek hibásak "
+"vagy üresek."
+
+#: views/admin/settings.php:100
+msgid ""
+"The PHP setting \"allow_url_fopen\" is disabled so you can't include "
+"external images. You can use images from this webserver or contact your "
+"hosting provider to change the setting."
+msgstr ""
+"A   \"allow_url_fopen \" PHP beállítás ki van kapcsolva, így nem "
+"illeszthetsz be a külső hivatkozásból képeket. Jelenleg csak az ezen a a "
+"webszerveren lévő képeket használhatod, vagy fordulj a tárhely "
+"szolgáltatódhoz, hogy módosítsa a beállításat. "
+
+# @ haetshopstyling
+#: views/admin/settings.php:113
+msgid "Invoice Footer"
+msgstr "Számla lábléc"
+
+# @ haetshopstyling
+#: views/admin/settings.php:131
+msgid "Paper"
+msgstr "papír formátuma (mérete)"
+
+# @ haetshopstyling
+#: views/admin/settings.php:140
+msgid "Filename"
+msgstr "Fájlnév"
+
+# @ haetshopstyling
+#: views/admin/settings.php:143
+msgid "&lt;filename&gt;&lt;invoicenumber&gt;.pdf"
+msgstr "&lt;filename&gt;&lt;invoicenumber&gt;.pdf"
+
+#: views/admin/settings.php:147
+msgid "Attach PDF to the transaction report"
+msgstr "Csatold a pdf-t a tranzakció összesítőhöz"
+
+#: views/admin/settings.php:150 views/admin/settings.php:159
+#: views/admin/settings.php:419
+msgid "enable"
+msgstr "bekapcsol"
+
+#: views/admin/settings.php:151 views/admin/settings.php:160
+#: views/admin/settings.php:420
+msgid "disable"
+msgstr "kikapcsol"
+
+# @ haetshopstyling
+#: views/admin/settings.php:156
+msgid "Disable PDF invoice"
+msgstr "PDF számla letiltása"
+
+# @ haetshopstyling
+#: views/admin/settings.php:174
+msgid "Products table"
+msgstr "Termék táblázat"
+
+#: views/admin/settings.php:175
+msgid ""
+"Customize the fields and headlines for your products table. This table will "
+"show up on your invoice and your mails instead of the according placeholder."
+msgstr ""
+"Szabd testre rendelés összesítő táblázat formátumát, felépítését (címsorok, "
+"adatmezők). Ez a táblázat fog megjelenni a számlán és a kiküldött emailekben "
+"az alapértelmezett helyett. "
+
+#: views/admin/settings.php:176
+msgid ""
+"At the moment your table content will look like this, but the formatting "
+"will be different because of your stylesheets."
+msgstr ""
+"Jelenleg így néz ki a táblázatod, de a tényleges formázás eltérhet a CSS "
+"stíluslapjaiban meghatároztak szerint. (pl. sablon)"
+
+# @ haetshopstyling
+#: views/admin/settings.php:231
+msgid "Title"
+msgstr "Cím"
+
+# @ haetshopstyling
+#: views/admin/settings.php:232
+msgid "Field"
+msgstr "Mező"
+
+# @ haetshopstyling
+#: views/admin/settings.php:236
+msgid "Column"
+msgstr "Oszlop"
+
+#: views/admin/settings.php:251
+msgid "Email Content - Payment Successful"
+msgstr "Email tartalma - Sikeres fizetés"
+
+# @ haetshopstyling
+#: views/admin/settings.php:255 views/admin/settings.php:280
+#: views/admin/settings.php:305 views/admin/settings.php:330
+msgid "Email subject"
+msgstr "Email tárgya"
+
+#: views/admin/settings.php:276
+msgid "Email Content - Payment Incomplete (or manual payment)"
+msgstr "Email tartalma - Fizetés függőben (vagy készpénzes fizetés)"
+
+#: views/admin/settings.php:301
+msgid "Email Content - Payment failed"
+msgstr "Email tartalma - Fizetés elutasítva"
+
+#: views/admin/settings.php:326
+msgid "Email Content - Track and Trace Email"
+msgstr "Email tartalma - Termékkövető email"
+
+# @ haetshopstyling
+#: views/admin/settings.php:374
+msgid "Style your invoice"
+msgstr "Szabd testre a számlád kinézetét"
+
+#: views/admin/settings.php:384
+msgid "generating pdf invoice..."
+msgstr "PDf számla generálása..."
+
+#: views/admin/settings.php:385
+msgid "back"
+msgstr "vissza"
+
+#: views/admin/settings.php:402
+msgid "Shop email sender name"
+msgstr "Webshop email feladójának neve"
+
+#: views/admin/settings.php:405
+msgid "Sender name for mails from your store"
+msgstr "A webshopból küldött emaiek feladójának neve"
+
+#: views/admin/settings.php:409 views/admin/settings.php:432
+msgid "From adress"
+msgstr "Feladó címe"
+
+#: views/admin/settings.php:412
+msgid "From address for mails from your store"
+msgstr "A webshopból küldött emaiek feladójának emailcíme"
+
+#: views/admin/settings.php:416
+msgid "Use custom sender for non wpsc mails"
+msgstr ""
+"Azokhoz az emailekhez is használhatod ezt az egyedi levélsablont, amelyeket "
+"nem webshop küld ki."
+
+#: views/admin/settings.php:425
+msgid "Email sender name"
+msgstr "Feladó neve"
+
+#: views/admin/settings.php:428
+msgid "Sender name for mails outside your store"
+msgstr "A nem boltból küldött emailek feladójának neve"
+
+#: views/admin/settings.php:435
+msgid "From address for mails outside your store"
+msgstr "A nem boltból küldött emailek feladójának címe"
+
+# @ haetshopstyling
+#: views/admin/settings.php:442
+msgid "Global HTML Mail Template"
+msgstr "Globális HTML Email sablon"
+
+#: views/admin/settings.php:443
+msgid ""
+"Enter your custom HTML code here. Use the placeholder {#mailcontent#} where "
+"you want your content to show up. You can also show the subject in the email "
+"body using the placeholder {#mailsubject#}"
+msgstr ""
+"Ide írhatod be az egyedi HTML kódot. Illesztd be a {# mailcontent #} "
+"változót oda, ahol a tartalmat szeretnéd megjeleníteni. Az email szövegében "
+"akár az email tárgyát is beillesztheted a  {# mailsubject #} változóval."
+
+# @ haetshopstyling
+#: views/admin/settings.php:445
+msgid "preview Email template"
+msgstr "Email sablon előnézete"
+
+#: views/admin/settings.php:448
+msgid "you can find a few more templates here:"
+msgstr "Itt további sablonokat találsz:"
+
+#: views/admin/settings.php:465
+msgid ""
+"You can edit the settings but it will not be published to your customers."
+msgstr ""
+"Módosíthatod a beállításokat, de a publikus felületen a vásárlók számára ez "
+"nem lesz látható."
+
+#: views/admin/settings.php:480
+msgid "Results Page - payment successful"
+msgstr "Eredmény oldal - sikeres fizetés "
+
+#: views/admin/settings.php:492
+msgid "Results Page - payment incomplete (or manual payment)"
+msgstr "Eredmény oldal - függőben lévő fizetés (vagy készpénzes fizetés) "
+
+#: views/admin/settings.php:504
+msgid "Results Page - payment failed"
+msgstr "Eredmény oldal - fizetés elutasítva"
+
+#: views/admin/settings.php:523
+msgid "You have not unlocked all features"
+msgstr "Még nem aktiváltál minden funkciót"
+
+#: views/admin/settings.php:538
+msgid "Upgrade"
+msgstr "Frissítés"
+
+#: views/admin/settings.php:546
+msgid "Serial for transaction results"
+msgstr "Sorozatszáma Rendelés eredménye funkcióhoz"
+
+# @ haetshopstyling
+#: views/admin/settings.php:556
+msgid "Serial for PDF invoices"
+msgstr "Sorozatszám a PDF számla funkcióhoz "
+
+# @ haetshopstyling
+#: views/admin/settings.php:574
+msgid "Update Settings"
+msgstr "Beállítások frissítése"
